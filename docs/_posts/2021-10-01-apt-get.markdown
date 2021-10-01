@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "apt-get包管理使用"
+date:   2021-10-01 21:49:12 +0800
+categories: jekyll update
+---
+
+# apt-get （linux的包管理系统）使用方法
+
+_UienZYC 2021.10.1_
+
+```bash
+sudo apt-get install xxx		#安装软件xxx（重复安装时则会升级该包）
+sudo apt-get install -y			#安装的时候不需要再次建入Y来确认
+sudo apt-get remove xxx			#卸载软件xxx（不包括配置文件）
+sudo apt-get purge xxx			#卸载软件xxx（包括配置文件）
+sudo apt-get update 			#更新所有包的来源信息
+sudo apt-get upgrade			#升级所有包
+sudo apt-get upgrade -y 		#同样地，不需要用Y确认
+sudo apt-get install -q			#静默安装，省略显示一些低等级的log信息
+sudo apt-get install --only-upgrade <packagename>  #升级单个软件包
+```
+
