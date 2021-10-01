@@ -1,11 +1,14 @@
+---
 layout: post
 title:  "Github Pages的建立过程"
 date:   2021-10-01 22:49:12 +0800
 categories: jekyll update
-
+---
 # Github Pages
 
 _this notes track my acts for using github pages_
+
+_大量参考了来自github doc和 Jekyll的信息_
 
 _xuling_
 
