@@ -21,7 +21,7 @@ _每次树莓派连接WiFi后，路由器分给它一个IP地址不尽相同，�
 
 VNC连接后，右击网络
 
-![HeadlessRPI-1]({{ "/_image/HeadlessRPI-1.png" | absolute_url }})
+![HeadlessRPI-1]({{site.baseurl}}/_image/HeadlessRPI-1.png)
 ![HeadlessRPI-2](/_image/HeadlessRPI-2.png)
 
 如图设置后重启`sudo reboot`

@@ -22,7 +22,7 @@ title: Uien's pages
 email: xulingmetaphor@outlook.com 
 description: 这是来自UienZYC的友好网站，欢迎 # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uienzyc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: no
 github_username: UienZYC
 
